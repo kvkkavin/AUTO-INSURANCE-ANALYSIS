@@ -1,4 +1,4 @@
-# AUTO-INSURANCE-ANALYSIS-USING-IBM-SPSS-MODELER
+# AUTO-INSURANCE-ANALYSIS
 
 # AIM:
  To Create a Linear Regression Model to predict Employee Salaries.
